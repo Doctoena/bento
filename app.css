@@ -173,10 +173,6 @@ body {
   margin-left: 1.5rem;
 }
 
-#greetings {
-  font-size: var(--fg-secondary);
-  color: var(--fg);
-}
 
 .weatherIcon img {
   width: 70px;
